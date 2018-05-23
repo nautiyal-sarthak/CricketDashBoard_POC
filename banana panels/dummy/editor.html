@@ -1,0 +1,21 @@
+<div class="row-fluid">
+    <div class="span4">
+        <label class="small">X Field
+            <tip>This is the X field.</tip>
+        </label>
+        <input type="text" class="input-small" bs-typeahead="fields.list" ng-model="panel.field" ng-change="set_refresh(true)">
+    </div>
+	<div class="span4">
+        <label class="small">Y Field
+            <tip>This is the Y field.</tip>
+        </label>
+        <input type="text" class="input-small" bs-typeahead="fields.list" ng-model="panel.fl" ng-change="set_refresh(true)">
+    </div>
+
+    <div class="span4">
+        <label class="small">Number of Bars
+            <tip>Specify a maximum number of terms/Bars to display.</tip>
+        </label>
+        <input class="input-small" type="number" ng-model="panel.size" ng-change="set_refresh(true)">
+    </div>
+</div>
