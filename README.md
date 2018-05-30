@@ -8,3 +8,7 @@ this POC is created to showcase the integration of the following components:
 * spark
 * solr
 * banana
+
+## Architecture
+
+## Screenshots
