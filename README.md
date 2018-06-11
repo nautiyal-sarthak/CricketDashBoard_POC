@@ -21,9 +21,21 @@ this POC is created to showcase the integration of the following components:
 ![alt text](https://github.com/nautiyal-sarthak/CricketDashBoard_POC/blob/master/screenshots/Screen%20Shot%202018-06-10%20at%206.16.31%20PM.png)
 
 3. Various graphs build on top of SOLR :
+
+* Runs scored per Ball
 ![alt text](https://github.com/nautiyal-sarthak/CricketDashBoard_POC/blob/master/screenshots/Screen%20Shot%202018-06-10%20at%206.17.30%20PM.png)
+
+* StrikeRate of all the batsmen per ball faced
 ![alt text](https://github.com/nautiyal-sarthak/CricketDashBoard_POC/blob/master/screenshots/Screen%20Shot%202018-06-10%20at%206.17.42%20PM.png)
+
+* Bowling avg of all the bowlers per balls bowled
 ![alt text](https://github.com/nautiyal-sarthak/CricketDashBoard_POC/blob/master/screenshots/Screen%20Shot%202018-06-10%20at%206.17.52%20PM.png)
+
+* Scatter plot for ploting the runs scored by each batsman.
 ![alt text](https://github.com/nautiyal-sarthak/CricketDashBoard_POC/blob/master/screenshots/Screen%20Shot%202018-06-10%20at%206.18.13%20PM.png)
+
+*Line plot for the total runs scored and run rate 
 ![alt text](https://github.com/nautiyal-sarthak/CricketDashBoard_POC/blob/master/screenshots/Screen%20Shot%202018-06-10%20at%206.18.22%20PM.png)
+
+* Pie chart to show how many 4s,6s etc have been scored.
 ![alt text](https://github.com/nautiyal-sarthak/CricketDashBoard_POC/blob/master/screenshots/Screen%20Shot%202018-06-10%20at%206.18.35%20PM.png)
